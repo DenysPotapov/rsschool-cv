@@ -10,7 +10,7 @@
 I just started to study, but I have a firm intention to get a specialty of a trainee frontend developer. I have pass some courses of ITVDN and YouTube channels html/css, js-starter. I have good knowledge in flex, grid, bootstrap. 
 I hope I’ll be useful for team in nearest feature.
 ***
-## Scills
+## Skills
 * HTML
 * CSS
 * Git
