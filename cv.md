@@ -28,9 +28,9 @@ function multiply(a, b){
 ## Education
 * **University:** Kharkiv Aerospace University N.E. Zhukovskogo "KHAI", *2000-2005*
 * **Courses:**
-  + ITVDN, HTML+CSS Starter, *2022*
-  + YouTube, Freelance, *2022*
+  + [ITVDN](https://itvdn.com/ru), HTML+CSS Starter, *2022*
+  + YouTube, [FreelancerLifeStyle](https://www.youtube.com/c/FreelancerLifeStyle), *2022*
 ***
 ## Language
 * English, *A2*
-* Arabic, *Beginer*
+* Arabic, *Beginner*
